@@ -8,3 +8,5 @@ Hello, Kevin! Your C# console app is running.
 
 ## Receipt
 [View my Week 6 Receipt](Week6Receipt.txt)
+
+VS Code is in my Week6 folder under Program.cs.
