@@ -7,4 +7,4 @@ I tested my program using dotnet run in the terminal. I entered my name and the 
 Hello, Kevin! Your C# console app is running.
 
 ## Receipt
-[View my Week 6 Receipt](./Week6Receipt/Week6Receipt.txt)
+[View my Week 6 Receipt](Week6Receipt.txt)
